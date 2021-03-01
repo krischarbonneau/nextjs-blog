@@ -8,10 +8,28 @@ export async function getStaticProps() {
     recipeCards: [
       {
         key: "Shakshuka",
-        name: "The Best Skakshuka recipe!",
+        name: "The Best Skakshuka Recipe!",
         description: "Placeholder text",
-        image: "/public/images/shakshuka.jpg",
+        image: "/images/shakshuka.jpg",
       },
+      {
+        key: "Chicken Gyros",
+        name: "Delicious Chicken Gyros!",
+        description: "Placeholder text",
+        image: "/images/gyros.jpg",
+      },
+      {
+        key: "Risotto",
+        name: "Bacon and Wild Mushroom Risotto",
+        description: "Placeholder text",
+        image: "/images/risotto.jpg",
+      },
+      {
+        key: "Chicken Dumplings",
+        name: "Cozy Chicken and Dumpling Soup",
+        description: "Placeholder text",
+        image: "/images/cozyChicken.jpg",
+      }
     ],
   };
 

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./card.module.css";
 
-export default function Card(name, description, image) {
+export default function Card({ name, description, image }) {
   console.log(image);
   return (
     <div className={styles.card}>
