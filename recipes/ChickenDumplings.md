@@ -2,45 +2,43 @@
 title: "Cozy Chicken and Dumplings"
 date: "2018-08-24"
 ---
+
 35 minutes
 
-------------------------------
+---
 
 It's the end of yet another long day and well, you're ready to put your feet up, relax, and tuck into a comforting meal. Delivery might be calling your name, but you've got a ton of chicken lying around and with not much else to do, now's the perfect time to whip up a batch of these simple and cozy chicken and dumplings. Tuck in now.
 
-
-Ingredients
------------
+## Ingredients
 
 for 6 servings
 
 SOUP
 
--   2 tablespoons vegetable oil
--   2 lb boneless, skinless chicken breast(905 g), cubed
--   1 cup diced yellow onion
--   1 cup sliced carrot
--   3 cloves garlic cloves, minced
--   1 teaspoon salt
--   5 tablespoons unsalted butter
--   6 tablespoons all-purpose flour
--   6 cups chicken broth(1 ½ L)
--   ½ cup heavy cream(120 mL)
--   ½ teaspoon dried thyme
--   2 bay leaves
--   1 ½ cups frozen peas(225 g)
--   4 tablespoons fresh parsley, minced
+- 2 tablespoons vegetable oil
+- 2 lb boneless, skinless chicken breast(905 g), cubed
+- 1 cup diced yellow onion
+- 1 cup sliced carrot
+- 3 cloves garlic cloves, minced
+- 1 teaspoon salt
+- 5 tablespoons unsalted butter
+- 6 tablespoons all-purpose flour
+- 6 cups chicken broth(1 ½ L)
+- ½ cup heavy cream(120 mL)
+- ½ teaspoon dried thyme
+- 2 bay leaves
+- 1 ½ cups frozen peas(225 g)
+- 4 tablespoons fresh parsley, minced
 
 DUMPLINGS
 
--   2 cups all-purpose flour(250 g)
--   1 tablespoon baking powder
--   ½ teaspoon salt
--   ½ teaspoon pepper
--   1 ⅓ cups heavy cream(320 mL)
+- 2 cups all-purpose flour(250 g)
+- 1 tablespoon baking powder
+- ½ teaspoon salt
+- ½ teaspoon pepper
+- 1 ⅓ cups heavy cream(320 mL)
 
-Preparation
------------
+## Preparation
 
 1.  In a 6-quart Dutch oven, heat the vegetable oil over medium-high heat. Add the chicken and cook until browned on both sides. Remove from the pot and set aside.
 2.  Add carrot and onion and cook until just tender, about 3 minutes.

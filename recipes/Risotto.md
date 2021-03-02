@@ -3,22 +3,20 @@ title: "Bacon and Wild Mushroom Risotto"
 date: "2018-06-15"
 ---
 
-Ingredients
------------
+## Ingredients
 
 for 4 servings
 
--   3 tablespoons olive oil
--   1 medium onion, sliced
--   5 strips bacon, diced
--   8 oz wild mushrooms(225 g), such as porcini or shiitake, sliced
--   1 ½ cups arborio rice(300 g)
--   ½ cup dry white wine(120 mL), such as Sauvignon Blanc
--   5 cups chicken broth(1.17 L)
--   ½ cup parmesan cheese(55 g), plus more for garnish
+- 3 tablespoons olive oil
+- 1 medium onion, sliced
+- 5 strips bacon, diced
+- 8 oz wild mushrooms(225 g), such as porcini or shiitake, sliced
+- 1 ½ cups arborio rice(300 g)
+- ½ cup dry white wine(120 mL), such as Sauvignon Blanc
+- 5 cups chicken broth(1.17 L)
+- ½ cup parmesan cheese(55 g), plus more for garnish
 
-Preparation
------------
+## Preparation
 
 1.  In a 5-quart Dutch oven, heat the olive oil over medium heat.
 2.  Add the onion and cook 3-4 minutes until soft and slightly transparent.

@@ -3,45 +3,43 @@ title: "Chicken Gyros"
 date: "2018-05-02"
 ---
 
-Ingredients
------------
+## Ingredients
 
 for 8 servings
 
--   2 lb boneless, skinless chicken thighs(910 g), pounded flat
--   ½ large yellow onion, peeled and root side removed
--   1 wooden skewer, sturdy, roughly 10 inches (25 cm)
+- 2 lb boneless, skinless chicken thighs(910 g), pounded flat
+- ½ large yellow onion, peeled and root side removed
+- 1 wooden skewer, sturdy, roughly 10 inches (25 cm)
 
 MARINADE
 
--   2 cups greek yogurt(570 g)
--   ¼ cup lemon juice(60 mL)
--   ¾ cup olive oil(180 mL)
--   1 tablespoon kosher salt
--   1 tablespoon garlic, minced
--   1 tablespoon coriander powder
--   1 tablespoon paprika
--   1 tablespoon ground cumin
--   ½ teaspoon cayenne pepper
--   1 teaspoon cinnamon
--   1 teaspoon black pepper
+- 2 cups greek yogurt(570 g)
+- ¼ cup lemon juice(60 mL)
+- ¾ cup olive oil(180 mL)
+- 1 tablespoon kosher salt
+- 1 tablespoon garlic, minced
+- 1 tablespoon coriander powder
+- 1 tablespoon paprika
+- 1 tablespoon ground cumin
+- ½ teaspoon cayenne pepper
+- 1 teaspoon cinnamon
+- 1 teaspoon black pepper
 
 TZATZIKI SAUCE
 
--   1 large cucumber, shredded
--   2 cups greek yogurt(570 g)
--   1 tablespoon garlic, minced
--   ¼ cup lemon juice(60 mL)
--   2 tablespoons fresh dill, finely chopped
--   2 tablespoons fresh parsley, finely chopped
--   salt, to taste
--   pepper, to taste
--   8 pita breads
--   onion, sliced
--   tomato, sliced
+- 1 large cucumber, shredded
+- 2 cups greek yogurt(570 g)
+- 1 tablespoon garlic, minced
+- ¼ cup lemon juice(60 mL)
+- 2 tablespoons fresh dill, finely chopped
+- 2 tablespoons fresh parsley, finely chopped
+- salt, to taste
+- pepper, to taste
+- 8 pita breads
+- onion, sliced
+- tomato, sliced
 
-Preparation
------------
+## Preparation
 
 1.  In a large bowl, combine marinade ingredients and stir well.
 2.  On a cutting board, place a piece of plastic wrap over the chicken thighs and pound until about ½ inch (1 cm) thick with a meat mallet, rolling pin, or heavy pan.

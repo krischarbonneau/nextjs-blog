@@ -29,7 +29,7 @@ export async function getStaticProps() {
         name: "Cozy Chicken and Dumpling Soup",
         description: "The Ultimate Comfort Food! Dumplings in a Creamy Soup",
         image: "/images/cozyChicken.jpg",
-      }
+      },
     ],
   };
 
