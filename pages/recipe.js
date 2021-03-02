@@ -7,27 +7,27 @@ export async function getStaticProps() {
   const allPostsData = {
     recipeCards: [
       {
-        key: "Shakshuka",
+        id: "Shakshuka",
         name: "The Best Skakshuka Recipe!",
-        description: "Placeholder text",
+        description: "Eggs Poached in Sweet & Spicy Tomato Sauce",
         image: "/images/shakshuka.jpg",
       },
       {
-        key: "Chicken Gyros",
+        id: "ChickenGyros",
         name: "Delicious Chicken Gyros!",
-        description: "Placeholder text",
+        description: "Chicken Marinated in a Greek Yogurt Sauce",
         image: "/images/gyros.jpg",
       },
       {
-        key: "Risotto",
+        id: "Risotto",
         name: "Bacon and Wild Mushroom Risotto",
-        description: "Placeholder text",
+        description: "Crispy Bacon Tops This To Die For Risotto",
         image: "/images/risotto.jpg",
       },
       {
-        key: "Chicken Dumplings",
+        id: "ChickenDumplings",
         name: "Cozy Chicken and Dumpling Soup",
-        description: "Placeholder text",
+        description: "The Ultimate Comfort Food! Dumplings in a Creamy Soup",
         image: "/images/cozyChicken.jpg",
       }
     ],
