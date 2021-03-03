@@ -1,12 +1,38 @@
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
-import { getSortedPostsData } from "../lib/recipes";
-import Link from "next/link";
-import Date from "../components/date";
+import CardContainer from "../components/card/cardContainer";
 
 export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
+  const allPostsData = {
+    recipeCards: [
+      {
+        id: "Shakshuka",
+        name: "The Best Skakshuka Recipe!",
+        description: "Eggs Poached in Sweet & Spicy Tomato Sauce",
+        image: "/images/shakshuka.jpg",
+      },
+      {
+        id: "ChickenGyros",
+        name: "Delicious Chicken Gyros!",
+        description: "Chicken Marinated in a Greek Yogurt Sauce",
+        image: "/images/gyros.jpg",
+      },
+      {
+        id: "Risotto",
+        name: "Bacon and Wild Mushroom Risotto",
+        description: "Crispy Bacon Tops This To Die For Risotto",
+        image: "/images/risotto.jpg",
+      },
+      {
+        id: "ChickenDumplings",
+        name: "Cozy Chicken and Dumpling Soup",
+        description: "The Ultimate Comfort Food! Dumplings in a Creamy Soup",
+        image: "/images/cozyChicken.jpg",
+      },
+    ],
+  };
+
   return {
     props: {
       allPostsData,
@@ -21,30 +47,12 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          Hi, my name is Kris Charbonneau. I'm a junior developer who is
-          currently learning the ins and outs of Next.js!
-        </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+        <p className={utilStyles.headingCentered}>
+          Select a recipe from below to view
         </p>
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
-        </ul>
+      <section>
+        <CardContainer recipeCards={allPostsData.recipeCards} />
       </section>
     </Layout>
   );
