@@ -14,14 +14,14 @@ export async function getStaticProps() {
       },
       {
         id: "ChickenGyros",
-        name: "Delicious Chicken Gyros!",
+        name: "The Most Delicious Chicken Gyros!",
         description: "Chicken Marinated in a Greek Yogurt Sauce",
         image: "/images/gyros.jpg",
       },
       {
         id: "Risotto",
         name: "Bacon and Wild Mushroom Risotto",
-        description: "Crispy Bacon Tops This To Die For Risotto",
+        description: "Crispy Bacon and Tender Mushrooms Top This To Die For Risotto",
         image: "/images/risotto.jpg",
       },
       {

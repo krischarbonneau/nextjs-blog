@@ -9,7 +9,14 @@ const handleClick = (event) => {
 export default function Card({ id, name, description, image }) {
   return (
     <div className={styles.card}>
-      <Image priority src={image} height={200} width={200} />
+      <Image className="image" priority src={image} height={200} width={200} />
+      <style jsx global>
+        {`
+          .image {
+            border-radius: 50%;
+          }
+        `}
+      </style>
       <h1>{name}</h1>
       <p>{description}</p>
       <p>
