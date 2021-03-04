@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./card.module.css";
+import styles from "./card.module.scss";
 import Link from "next/link";
 
 const handleClick = (event) => {

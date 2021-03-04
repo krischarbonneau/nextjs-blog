@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "./layout.module.css";
+import styles from "./layout.module.scss";
 import Link from "next/link";
 
 const name = "Kris Charbonneau";
@@ -24,7 +24,7 @@ export default function Layout({ children, home }) {
             <Image
               priority
               src="/images/banner.png"
-              height={452}
+              height={480}
               width={1920}
               objectFit="fill"
             />
@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
                 <Image
                   priority
                   src="/images/banner.png"
-                  height={452}
+                  height={480}
                   width={1920}
                   objectFit="fill"
                 />
