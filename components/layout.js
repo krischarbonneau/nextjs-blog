@@ -55,6 +55,11 @@ export default function Layout({ children, home }) {
           </div>
         )}
       </div>
+      <footer>
+        <div className={styles.footer}>
+          <p>© Made by Kris Charbonneau. All rights reserved.</p>
+        </div>
+      </footer>
     </div>
   );
 }
