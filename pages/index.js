@@ -21,7 +21,8 @@ export async function getStaticProps() {
       {
         id: "Risotto",
         name: "Bacon and Wild Mushroom Risotto",
-        description: "Crispy Bacon and Tender Mushrooms Top This To Die For Risotto",
+        description:
+          "Crispy Bacon and Tender Mushrooms Top This To Die For Risotto",
         image: "/images/risotto.jpg",
       },
       {
