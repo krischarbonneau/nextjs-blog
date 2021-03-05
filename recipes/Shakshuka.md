@@ -3,27 +3,15 @@ title: "Shakshuka Recipe (Easy & Traditional)"
 date: "2018-12-19"
 ---
 
+- **Total Time:** 30 minutes
+- **Servings:** 6 Servings
+- **Cuisine:** Mediterranean, Middle Eastern
+
 ---
 
 Shakshuka is a North African and Middle Eastern meal of poached eggs in a simmering tomato sauce with spices. It's easy, healthy and takes less than 30 minutes to make.
 
-PREP TIME: 10 mins
-
-COOK TIME: 20 mins
-
-TOTAL TIME: 30 mins
-
-COURSE: Breakfast, Main Meal
-
-CUISINE: Mediterranean, Middle Eastern
-
-KEYWORD: shakshuka, Shakshuka recipe
-
-SERVINGS: 6 servings
-
-CALORIES: 122.2kcal
-
-AUTHOR: Lisa Bryan
+![Shakshuka](https://github.com/krischarbonneau/nextjs-blog/blob/main/public/images/shakshukaLg.jpg?raw=true#bigImg)
 
 ### Ingredients
 

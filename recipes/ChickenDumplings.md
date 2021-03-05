@@ -3,17 +3,21 @@ title: "Cozy Chicken and Dumplings"
 date: "2018-08-24"
 ---
 
-35 minutes
+- **Total Time:** 35 minutes
+- **Servings:** 6 Servings
+- **Cuisine:** Southern United States, Québec
 
 ---
 
 It's the end of yet another long day and well, you're ready to put your feet up, relax, and tuck into a comforting meal. Delivery might be calling your name, but you've got a ton of chicken lying around and with not much else to do, now's the perfect time to whip up a batch of these simple and cozy chicken and dumplings. Tuck in now.
 
+![Chicken Dumplings](https://github.com/krischarbonneau/nextjs-blog/blob/main/public/images/cozyChickenLg.png?raw=true#bigImg)
+
 ## Ingredients
 
 for 6 servings
 
-SOUP
+**SOUP**
 
 - 2 tablespoons vegetable oil
 - 2 lb boneless, skinless chicken breast(905 g), cubed
@@ -30,7 +34,7 @@ SOUP
 - 1 ½ cups frozen peas(225 g)
 - 4 tablespoons fresh parsley, minced
 
-DUMPLINGS
+**DUMPLINGS**
 
 - 2 cups all-purpose flour(250 g)
 - 1 tablespoon baking powder

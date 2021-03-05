@@ -3,6 +3,16 @@ title: "Chicken Gyros"
 date: "2018-05-02"
 ---
 
+- **Total Time:** 3 hours and 45 minutes (or around 27 hours if you choose to marinate for a full day)
+- **Servings:** 8 Servings
+- **Cuisine:** Mediterranean, Greek
+
+---
+
+Greek Chicken Gyros are easy, flavorful, and healthy! The combination of juicy Greek lemon chicken, creamy cucumber dill tzatziki, fresh crisp veggies, and tangy feta wrapped in warm pita bread is out of this world.
+
+![Chicken Gyros](https://github.com/krischarbonneau/nextjs-blog/blob/main/public/images/gyrosLg.png?raw=true#bigImg)
+
 ## Ingredients
 
 for 8 servings
@@ -11,7 +21,7 @@ for 8 servings
 - ½ large yellow onion, peeled and root side removed
 - 1 wooden skewer, sturdy, roughly 10 inches (25 cm)
 
-MARINADE
+**MARINADE**
 
 - 2 cups greek yogurt(570 g)
 - ¼ cup lemon juice(60 mL)
@@ -25,7 +35,7 @@ MARINADE
 - 1 teaspoon cinnamon
 - 1 teaspoon black pepper
 
-TZATZIKI SAUCE
+**TZATZIKI SAUCE**
 
 - 1 large cucumber, shredded
 - 2 cups greek yogurt(570 g)

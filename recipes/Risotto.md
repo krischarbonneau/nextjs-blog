@@ -3,6 +3,16 @@ title: "Bacon and Wild Mushroom Risotto"
 date: "2018-06-15"
 ---
 
+- **Total Time:** 40 minutes
+- **Servings:** 4 Servings
+- **Cuisine:** Italian
+
+---
+
+Authentic Italian-style risotto cooked the slow and painful way, but oh so worth it. Complements grilled meats and chicken dishes very well. Check the rice by biting into it. It should be slightly al dente (or resist slightly to the tooth but not be hard in the center).
+
+![Bacon And Wild Mushroom Risotto](https://github.com/krischarbonneau/nextjs-blog/blob/main/public/images/risottoLg.png?raw=true#bigImg)
+
 ## Ingredients
 
 for 4 servings
